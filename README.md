@@ -1,2 +1,3 @@
 # CompetenciasDigitales
-Desarrollo de planes formativos para docentes
+Desarrollo de planes formativos para docentes.
+
